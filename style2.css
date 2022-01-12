@@ -1,0 +1,25 @@
+ .map {
+        height: 300px;
+        width: 90%;
+      }
+ #data1{
+        width: 300px;
+        background-color: antiquewhite;
+      }
+ .data{
+background-color: #FEFBF3;
+width: 50%;
+border: 1px solid grey;
+border-radius: 5px;
+margin: auto;
+padding: 10px;
+      }
+.reg{
+          padding: 10px;
+      }
+.container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+      }
